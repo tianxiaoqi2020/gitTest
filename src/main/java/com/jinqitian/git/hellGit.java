@@ -10,5 +10,7 @@ package com.jinqitian.git;
 public class hellGit {
     public static void main(String[] args) {
         System.out.println("我命由我，不由天！");
+        
+        System.out.println("HelloGit，要克隆了！");
     }
 }
